@@ -7,7 +7,6 @@ Memory Game is a dynamic, Java-based game developed in May 2024 using the Swing 
 - **Multiple Game Modes**: Includes a 4x3 mode with 12 cards.
 - **Sound Effects**: Engaging sound effects for various game actions.
 - **Timer**: A countdown timer adds to the challenge.
-- **Responsive Design**: Adapts to different screen sizes.
 
 ## Controls
 - Click on the cards to reveal the icons underneath.
